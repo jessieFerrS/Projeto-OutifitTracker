@@ -30,7 +30,7 @@ cd outfit-track-master
 cd .\outfit-track-master\OutfitTrack.Api\
 ```
 
-3. Uma dentro do diretório indicado, para rodar a API em ambiente de desenvolvimento, digite o seguinte comando
+3. Uma vez dentro do diretório indicado, para rodar a API em ambiente de desenvolvimento, digite o seguinte comando
 ```
 dotnet run
 ```
@@ -45,8 +45,8 @@ npm run dev
 ```
 6. Agora é só clicar no link `http://localhost:3000/` para abrir a aplicação na web.
 
-##### 📌OSERVAÇÕES:
-Lembre-se de ter instalado em sua máquina o MySQL para que a aplicação possa funcionar adequadamente. E estar com ele ativo pois do contrário as alterações feitas não serão salvas.
+##### 📌OBSERVAÇÕES:
+Lembre-se de ter instalado em sua máquina o MySQL para que a aplicação possa funcionar adequadamente, e estar com ele ativado, pois do contrário as alterações feitas não serão salvas.
 
 Caso você encontre problemas para executar a aplicação, instale o .NET e o Vue (vuetify) na sua máquina. 👇🏼
 - [.NET Framework](https://dotnet.microsoft.com/pt-br/download/dotnet-framework)
@@ -61,7 +61,7 @@ Caso você encontre problemas para executar a aplicação, instale o .NET e o Vu
 - Gerenciar clientes cadastrados - editar ou deletar;
 - Gerenciar produtos cadastrados - editar ou deletar;
 - Criação de condicional, onde ao entrar com o id do cliente já é retornado seus dados no formulário e o mesmo vale para o id dos produtos em condicionais;
-- Controle de condincionais, sendo possível editar (categorizando cada peça em: comprada, pendente e devolvida), modificar o produto caso o cliente solicite e posteriormente alterar o status da condicional de acordo com a situação (pendente, aguardando encerramento e fechada).
+- Controle de condicionais, sendo possível editar (categorizando cada peça em: comprada, pendente e devolvida), modificar o produto caso o cliente solicite e posteriormente alterar o status da condicional de acordo com a situação (pendente, aguardando encerramento e fechada).
 
 ## 📸Capturas de Tela
 ![imagem tela inicial do projeto](https://github.com/jessieFerrS/Projeto-OutifitTracker/blob/main/PROJETO%20OUTFITTRACKER/vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-03%20222638.png)
