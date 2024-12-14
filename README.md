@@ -64,13 +64,13 @@ Caso você encontre problemas para executar a aplicação, instale o .NET e o Vu
 - Controle de condincionais, sendo possível editar (categorizando cada peça em: comprada, pendente e devolvida), modificar o produto caso o cliente solicite e posteriormente alterar o status da condicional de acordo com a situação (pendente, aguardando encerramento e fechada).
 
 ## 📸Capturas de Tela
-![imagem tela inicial do projeto](./vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-03%20222638.png)
-![imagem tela cadastro de produto](./vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-04%20143618.png)
-![imagem tela criar condicional](./vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-04%20143704.png)
-![imagem tela cadastro de cliente](./vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-04%20143718.png)
-![imagem tela lista de clientes](./vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-04%20143730.png)
-![imagem tela lista de produtos](./vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-04%20143759.png)
-![imagem tela histórico de condicionais](./vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-04%20143821.png)
+![imagem tela inicial do projeto](https://github.com/jessieFerrS/Projeto-OutifitTracker/blob/main/PROJETO%20OUTFITTRACKER/vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-03%20222638.png)
+![imagem tela cadastro de produto](https://github.com/jessieFerrS/Projeto-OutifitTracker/blob/main/PROJETO%20OUTFITTRACKER/vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-04%20143618.png)
+![imagem tela criar condicional](https://github.com/jessieFerrS/Projeto-OutifitTracker/blob/main/PROJETO%20OUTFITTRACKER/vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-04%20143704.png)
+![imagem tela cadastro de cliente](https://github.com/jessieFerrS/Projeto-OutifitTracker/blob/main/PROJETO%20OUTFITTRACKER/vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-04%20143718.png)
+![imagem tela lista de clientes](https://github.com/jessieFerrS/Projeto-OutifitTracker/blob/main/PROJETO%20OUTFITTRACKER/vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-04%20143730.png)
+![imagem tela lista de produtos](https://github.com/jessieFerrS/Projeto-OutifitTracker/blob/main/PROJETO%20OUTFITTRACKER/vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-04%20143634.png)
+![imagem tela histórico de condicionais](https://github.com/jessieFerrS/Projeto-OutifitTracker/blob/main/PROJETO%20OUTFITTRACKER/vuetify-project/Capturas%20OutifitTracker/Captura%20de%20tela%202024-12-04%20143821.png)
 
 
 ## 🤜🏼🤛🏼Equipe
